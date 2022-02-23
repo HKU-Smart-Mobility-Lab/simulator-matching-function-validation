@@ -1,3 +1,6 @@
+If you feel this code is useful for you and/or relevant to your research, please cite the following paper: 
+"Shuqing Wei, Siyuan Feng, Jintao Ke, Hai Yang. Calibration and validation of matching functions for ride-sourcing markets. Communication in Transportation Research, under review." 
+
 python version: 3.8.11
 
 1. to install the requirements:
