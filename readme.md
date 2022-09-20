@@ -103,7 +103,7 @@ The above picture shows the flowchart of the simulator. Next, we will introduce 
 
 ​		Simulator_env.py contains the code for simulator construction and operation.
 
-**Matching process:  **
+**Matching process:**
 
 ​		Dispatch_alg.py implement the matching process
 
