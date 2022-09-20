@@ -127,6 +127,8 @@ If you feel this code is useful for you and/or relevant to your research, please
 
 ## Contributors
 
+The simulator is mainly conducted by Siyuan Feng, the driver cruising, evaluation and drawing part is mainly implemented by Shuqing Wei, and the analysis, checking and verification is conducted by Jintao Ke.
+
 This simulator is supported by the [Smart Mobility Lab](https://github.com/HKU-Smart-Mobility-Lab) at The Univerisity of Hong Kong.
 
 ## **Contact information**
